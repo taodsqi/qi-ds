@@ -1,4 +1,4 @@
-# steps
+# sprint2: workflow steps 
 
 # 1. data preprocessing: input data files, output, matrix
 
@@ -7,3 +7,5 @@
 # 3. training the model
 
 # 4. test the model
+
+# 5. report outcomes
